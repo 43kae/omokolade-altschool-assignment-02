@@ -42,7 +42,6 @@ function countEvenNumbers(arrayOfNumbers){
     return count;
 }
 
-countEvenNumbers([1,2,3,4,5,6,7,8,9,10])
 assignment.countEvenNumbers = countEvenNumbers;
 
 /**
